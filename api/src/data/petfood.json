@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "PEDIGREE",
+        "logo": "https://seeklogo.com/images/P/Pedigree-logo-0B0352F571-seeklogo.com.png",
+        "categoria": "$$$",
+        "destaque": 1,
+        "location": {
+            "lat": -23.561684,
+            "lng": -46.623778
+        },
+        "produtos": [
+            {
+                "nome": "PEDIGREE FILHOTES RAÇAS MÉDIAS E GRANDES 1KG",
+                "capa": "https://static.petz.com.br/fotos/1630012771071.jpg",
+                "preco": 25.29,
+                "avaliacoes": 4.5
+            }
+        ]
+    },
+    {
+        "nome": "PETZ",
+        "logo": "https://static.petz.com.br/novaLoja/images/icons/logo.png",
+        "categoria": "$$$",
+        "destaque": 1,
+        "location": {
+            "lat": -23.565634,
+            "lng": -46.623675
+        },
+        "produtos": [
+            {
+                "nome": "Ração Premier Raças Específicas Shih Tzu para Cães Filhotes",
+                "capa": "https://static.petz.com.br/fotos/1570632700773.jpg",
+                "preco": 95.90,
+                "avaliacoes": 4.0
+            },
+            {
+                "nome": "Ração Úmida Royal Canin Sachê Instinctive - Gatos Adultos - 85g",
+                "capa": "https://static.petz.com.br/fotos/1550837412917.jpg",
+                "preco": 9.99,
+                "avaliacoes": 3.5
+            },
+            {
+                "nome": "Ração Royal Canin Maxi - Cães Adultos - 15kg",
+                "capa": "https://static.petz.com.br/fotos/1574869316149.jpg",
+                "preco": 344.89,
+                "avaliacoes": 4.2
+            }
+        ]
+    }
+]
